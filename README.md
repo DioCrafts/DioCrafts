@@ -69,12 +69,12 @@ If you find my work helpful or useful, consider buying me a coffee. Your support
 ## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/dioni-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dioni-dev&include_all_commits=true&count_private=true&hide_rank=true" />
+  <a href="https://github.com/DioCrafts">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DioCrafts&include_all_commits=true&count_private=true&hide_rank=true" />
   </a>
-  <a href="https://github.com/dioni-dev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dioni-dev&layout=compact" />
+  <a href="https://github.com/DioCrafts">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioCrafts&layout=compact" />
   </a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dioni-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dioni-dev" /> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DioCrafts&label=Profile%20views&color=0e75b6&style=flat" alt="DioCrafts" /> </p> 
