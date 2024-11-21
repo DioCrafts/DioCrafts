@@ -77,6 +77,8 @@ If you find my work helpful or useful, consider buying me a coffee. Your support
   </a>
   <a href="https://github.com/DioCrafts">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioCrafts&layout=compact" />
+    [![DioCrafts's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DioCrafts&theme=react-dark)](https://github.com/DioCrafts)
+
   </a>
 </p>
 
