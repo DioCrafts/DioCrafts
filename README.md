@@ -73,26 +73,11 @@ If you find my work helpful or useful, consider buying me a coffee. Your support
 
 <p align="left">
   <a href="https://github.com/DioCrafts">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DioCrafts&include_all_commits=true&count_private=true&theme=radical&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DioCrafts&include_all_commits=true&count_private=true&hide_rank=true" />
   </a>
   <a href="https://github.com/DioCrafts">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioCrafts&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioCrafts&layout=compact" />
   </a>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DioCrafts&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DioCrafts&theme=solarized_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DioCrafts&theme=solarized_dark" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=DioCrafts&label=Profile%20views&color=0e75b6&style=flat" alt="DioCrafts" />
-  <img src="https://img.shields.io/badge/Public%20Repositories-XX-blue?style=for-the-badge" alt="Total Repositories" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/DioCrafts/flusso">
-    <img src="https://img.shields.io/badge/Flusso-Ingress%20Controller%20%2B%20API%20Gateway-blue?style=for-the-badge" alt="Flusso" />
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DioCrafts&label=Profile%20views&color=0e75b6&style=flat" alt="DioCrafts" /> </p>
