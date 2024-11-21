@@ -73,20 +73,20 @@ If you find my work helpful or useful, consider buying me a coffee. Your support
 
 <p align="center">
   <a href="https://github.com/DioCrafts">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DioCrafts&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DioCrafts&include_all_commits=true&count_private=true&show_icons=true&theme=graywhite" />
   </a>
   <a href="https://github.com/DioCrafts">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioCrafts&layout=compact&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioCrafts&layout=compact&theme=graywhite" />
   </a>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DioCrafts&theme=radical" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DioCrafts&theme=default" />
 </p>
 
-[![DioCrafts's Activity Graph](https://activity-graph.herokuapp.com/graph?username=DioCrafts&theme=react-dark)](https://github.com/DioCrafts)
+[![DioCrafts's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DioCrafts&theme=github-light)](https://github.com/DioCrafts)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DioCrafts&label=Profile%20views&color=ff69b4&style=flat" alt="DioCrafts" />
+  <img src="https://komarev.com/ghpvc/?username=DioCrafts&label=Profile%20views&color=blue&style=flat" alt="DioCrafts" />
 </p>
 
